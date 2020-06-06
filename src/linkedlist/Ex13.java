@@ -9,7 +9,7 @@ import java.util.Map;
 
 /**
  * 
- * @author mmia01 Write a Java program to clone an linked list to another linked
+ * @author mmia01 Write a Java program to clone a linked list to another linked
  *         list Write a Java program to remove and return the first element of a
  *         linked list.
  *
